@@ -1,4 +1,4 @@
-
+This is a mini project used to scrape Data Analyst job offers from linkedin
 ## Project Structure
 - `scraper.py`: The main script to run the scraping process.
 - `settings.py`: Contains settings such as URLs and file paths.
